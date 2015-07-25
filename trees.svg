@@ -1,11 +1,11 @@
 <svg width="640px" height="640px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g stroke="black" fill="white" stroke-width="10">
-    <g id="edges">
-      <line x1="320" y1="150" x2="320" y2="490"/>
+    <g stroke="black" fill="white" stroke-width="10" transform="translate(320,0)">
+      <g id="edges">
+        <line x1="0" y1="150" x2="0" y2="490"/>
+      </g>
+      <g id="vertices">
+        <circle cx="0" cy="150" r="100"/>
+        <circle cx="0" cy="490" r="100"/>
+      </g>
     </g>
-    <g id="vertices">
-      <circle cx="320" cy="150" r="100"/>
-      <circle cx="320" cy="490" r="100"/>
-    </g>
-  </g>
 </svg>
