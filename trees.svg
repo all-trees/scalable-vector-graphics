@@ -15,7 +15,15 @@
             <circle cx="0" cy="0" r="100"/>
           </g>
           <g transform="translate(-150,259.807621135)">
+            <line x1="0" y1="0" x2="-150" y2="259.807621135"/>
+            <line x1="0" y1="0" x2="150" y2="259.807621135"/>
             <circle cx="0" cy="0" r="100"/>
+            <g transform="translate(150,259.807621135)">
+              <circle cx="0" cy="0" r="100"/>
+            </g>
+            <g transform="translate(-150,259.807621135)">
+              <circle cx="0" cy="0" r="100"/>
+            </g>
           </g>
         </g>
       </g>
